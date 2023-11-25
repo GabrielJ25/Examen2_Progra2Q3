@@ -1,0 +1,36 @@
+body {
+  font-family: Arial; 
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+}
+
+h1, h2 {
+  margin: 0;  
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.products {
+  display: flex;  
+}
+
+.product {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;  
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;  
+}
